@@ -9,7 +9,7 @@ A content-based book recommendation system that suggests personalized book recom
 - Personalized Recommendations: The system analyzes book content to provide highly tailored book recommendations.
 - Content Analysis: Utilizes NLP(Natural Langauge Processing) techniques to extract key features from books, such as genre, author, and plot keywords, enhancing the recommendation process.
 - Similarity Algorithm: Applies cosine similarity to calculate the similarity between books and thus recommends accordingly.
-- Scalability: Deployed this system on Streamlit which supports hundreds of users concurrently.
+- Scalability: Deployed the system on Streamlit which supports hundreds of users concurrently.
 
 ### Installation
 
