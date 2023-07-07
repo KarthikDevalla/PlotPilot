@@ -16,7 +16,7 @@ A content-based book recommendation system that suggests personalized book recom
 Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/content-based-book-recommendation.git
+   git clone https://github.com/KarthikDevalla/PlotPilot.git
    ```
 
 ### Usage
