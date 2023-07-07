@@ -30,4 +30,4 @@ Recommendation generation: Execute the recommendation script to generate persona
 ## Acknowledgments
 
 - The recommendation system implementation is inspired by the concept of content-based filtering.
-- Dataset Courtesy [Kaggle](https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games)
+- Dataset Courtesy [Kaggle](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks)
